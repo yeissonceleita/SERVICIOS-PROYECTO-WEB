@@ -14,4 +14,4 @@ Importante no olvide colocar en la URL si es http o https</p>
 
 # CUENTA POR DEFECTO
 <p>Usuario: Administrador</p>
-<p>Clave: Administrador</p>
+<p>Clave: 123456789</p>
